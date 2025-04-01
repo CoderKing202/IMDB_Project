@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+     "install:chrome": "npx puppeteer install --chrome"  // Command to install Chrome with Puppeteer
   },
   "keywords": [],
   "author": "",
